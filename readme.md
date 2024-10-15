@@ -33,3 +33,4 @@ Test Deliverables:
   - Assets Folder: A folder that contains any images, fonts, or icons used in the design.
   - Readme File: A short README file that describes:
 
+Please submit the deliverables via email jeffery@resibrands.com or optionally create a public repo and share the link with me :) 
